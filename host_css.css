@@ -3,7 +3,7 @@
     -webkit-text-size-adjust: 100%}
 body {
     margin: 0;
-    background: red;
+    background: red !important;
 }
 main {
     display: block;
