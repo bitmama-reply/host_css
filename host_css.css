@@ -5,9 +5,6 @@ body {
     margin: 0;
     background: red;
 }
-html body {
-    background: red !important;
-}
 main {
     display: block;
 }
@@ -143,7 +140,7 @@ html *, html :after, html :before {
     box-sizing: inherit;
 }
 html body {
-    background-color: var(--color-bg, #fff);
+    background-color: red;
     overflow: hidden;
 }
 html article, html aside, html details, html figcaption, html figure, html footer, html form legend, html header, html hgroup, html main, html menu, html nav, html section {
