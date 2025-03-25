@@ -5,6 +5,9 @@ body {
     margin: 0;
     background: red;
 }
+html body {
+    background: red !important;
+}
 main {
     display: block;
 }
