@@ -3,7 +3,7 @@
     -webkit-text-size-adjust: 100%}
 body {
     margin: 0;
-    background: red !important;
+    background: red;
 }
 main {
     display: block;
@@ -11,7 +11,7 @@ main {
 h1 {
     font-size: 2em;
     margin: .67em 0;
-    color: red;
+    color: blue;
 }
 hr {
     -webkit-box-sizing: content-box;
